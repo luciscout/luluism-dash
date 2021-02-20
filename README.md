@@ -5,4 +5,4 @@ intended to be a replacement
 
 Tested with version 2.1.2
 
-<a href="https://github.com/luciscout/synergism-dashboard/raw/main/luluism_dashboard.user">Installation link</a>
+<a href="https://github.com/luciscout/synergism-dashboard/raw/main/luluism_dashboard.user.js">Installation link</a>
