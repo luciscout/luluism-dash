@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         synergism dashboard
-// @namespace    blaze33
+// @namespace    luciscout
 // @version      2
 // @description  Display relevant stats in a single panel
 // @author       blaze33
+// @coauthor     luciscout
 // @match        https://pseudonian.github.io/SynergismOfficial/
 // @grant        GM_addStyle
 // ==/UserScript==
