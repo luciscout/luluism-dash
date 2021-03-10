@@ -7,5 +7,6 @@ Tested with version 2.1.2
 
 <a href="https://github.com/luciscout/synergism-dashboard/raw/main/luluism_dashboard.user.js">Installation link</a>
 
+Note: this only works with Tampermonkey. You can install that <a href="https://www.tampermonkey.net/">here.</a>
 
 ![image](https://user-images.githubusercontent.com/77116048/108601853-0dc2fc80-735c-11eb-8e02-a56ea7d00196.png)
